@@ -9,3 +9,7 @@ Predict the age of abalone according to 8 phenotypic measures
 ### Geospiza_classification.ipynb  
 Classification problem  
 Predict the species of Geospiza based on several morphological measures and island information
+
+### Hybrid_fortis_scandens.ipynb
+Classification problem  
+Distinguish hybrid samples from pure breeds
